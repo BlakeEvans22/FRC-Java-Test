@@ -38,7 +38,7 @@ public class Robot extends TimedRobot {
     m_stick = new Joystick(kJoystickChannel);
   }
 
-  // Blake Evans 3
+  // Blake Evans
 
   @Override
   public void teleopPeriodic() {
