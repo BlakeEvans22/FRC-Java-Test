@@ -38,8 +38,6 @@ public class Robot extends TimedRobot {
     m_stick = new Joystick(kJoystickChannel);
   }
 
-  // Test comment
-
   @Override
   public void teleopPeriodic() {
     // Use the joystick X axis for lateral movement, Y axis for forward
